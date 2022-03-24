@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Bacco40
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on projects and expand my connection
-- 📫 How to reach me ...
+- 👋 Hi, I’m Matteo,
+- 🌱 I’m currently learning to code,but i already have some skill in JavaScript, CSS, html, React, Firebase 
+- 👀 I’m looking to collaborate on projects and expand my connection
+- 📫 You can reach me on my mail, bacchettimatteo@gmail.com
 
 <!---
 Bacco40/Bacco40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
