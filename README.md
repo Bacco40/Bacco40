@@ -11,6 +11,7 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
 
 
 - 📫 You can reach me on my mail, bacchettimatteo@gmail.com
+- 👉 [Check out my portfolio](https://bacco40.github.io/portfolio/) 👈
 
 
 
