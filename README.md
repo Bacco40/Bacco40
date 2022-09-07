@@ -139,7 +139,7 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
         width="48"
         height="48"
         alt="Heroku"
