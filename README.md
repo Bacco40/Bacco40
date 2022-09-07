@@ -55,23 +55,32 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
       <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
        <img
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb.svg"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
          width="48"
          height="48"
-         alt="Git"
+         alt="MongoDB"
        />
        <br /><strong>MongoDB</strong>
      </td>
+     <td align="center" height="108" width="108">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express.svg"
+          width="48"
+          height="48"
+          alt="Express"
+        />
+        <strong>Express</strong>
+      </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <strong>NODEJS</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -121,12 +130,12 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="NODEJS"
+        alt="Git"
       />
-      <strong>NODEJS</strong>
+      <br /><strong>Git</strong>
     </td>
   </tr> 
   
