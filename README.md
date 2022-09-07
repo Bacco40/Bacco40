@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo,
+ <h1 align='center'>Hi, 👋 I’m Matteo, </h1>
 - 🌱 I’m currently learning to code,but i already have some skill in JavaScript, CSS, html, React, Firebase 
 - 👀 I’m looking to collaborate on projects and expand my connection
 - 📫 You can reach me on my mail, bacchettimatteo@gmail.com
