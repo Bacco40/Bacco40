@@ -1,5 +1,5 @@
- <h1 align='center'>Hi, 👋 I’m Matteo, </h1>
- <h3 align="center">Developer from Italy</h3>
+# Hi, 👋 I’m Matteo,
+<h3>Developer from Italy</h3>
 
 <p>Growing up i was always passionate by technologies, innovations and graphics in general, that's why after an experience in London in a busy and stimulating environment in the wine sector, i decided to follow my true passion and complete the Odin Project curriculum.
 
@@ -63,6 +63,15 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
       />
       <br /><strong>Git</strong>
     </td>
+    <td align="center" height="108" width="108">
+       <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb.svg"
+         width="48"
+         height="48"
+         alt="Git"
+       />
+       <br /><strong>MongoDB</strong>
+     </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
