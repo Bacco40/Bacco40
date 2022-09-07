@@ -150,6 +150,16 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
   </tr> 
   
 </table>
+
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=bacco40&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=bacco40&&theme=react&&hide_border=true"
+/>
+
 <!---
 Bacco40/Bacco40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
