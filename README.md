@@ -153,7 +153,7 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
 
 # 📈 Stats
 
-[![Matteo Bacchetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacco40&show_icons=true&theme=react&hide_border)](https://github.com/Bacco40/github-readme-stats)
+[![Matteo Bacchetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bacco40&show_icons=true&theme=react&hide_border=true)](https://github.com/Bacco40/github-readme-stats)
 
 
 <img
