@@ -152,7 +152,7 @@ Committed to the idea of life-long learning, I am ready to collaborate on new an
 </table>
 
 # 📈 Stats
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <img
   src="https://github-readme-stats.vercel.app/api?username=bacco40&show_icons=true&theme=react&&hide_border=true"
 />
